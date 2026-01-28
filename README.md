@@ -1,0 +1,7 @@
+This project focuses on analyzing restaurant data from the Zomato platform using Microsoft Power BI to derive meaningful business insights. The dataset includes information such as restaurant locations, country and city details, ratings, cost for two, price range, and online delivery availability.
+
+The data was cleaned and transformed in Power Query, and relationships were established between the restaurant dataset and a country code mapping table to enable accurate geographical analysis. Interactive visuals such as cards, bar charts, line charts, pie charts, and maps were used to present key insights in a clear and user-friendly manner.
+
+The dashboard highlights important metrics including the total number of restaurants, average customer rating, average cost for two, and distribution of restaurants across countries and cities. A pie chart is used to show the proportion of restaurants that offer online delivery, while bar charts compare restaurant counts by country and city. A map visualization provides a global view of restaurant presence.
+
+Slicers were added to allow users to filter data dynamically by country, city, price range, and delivery availability, making the dashboard fully interactive. This project demonstrates practical skills in data modeling, data visualization, and business insight generation using Power BI, and reflects real-world data analysis scenarios in the food and hospitality industry.
